@@ -66,8 +66,8 @@ Everything for this project can be found here from source files to compiled exec
 - [Source With Compiled Module](./source_with_compiled_mod.7z) <a id="sourcem"></a>
 - [Archived Full Project Files](./project.7z) <a id="project"></a>
 - [Compiled Exectuable](./dist/apt-upgrade) <a id="compiled"></a>
-- [This Repository](https://github.com/Lateralus138/Apt-Upgrade)
-- [Release Page](https://lateralus138.github.io/Apt-Upgrade)
+- [This Repository](https://github.com/Lateralus138/Apt-Upgrade) <a id="repo"></a>
+- [Release Page](https://lateralus138.github.io/Apt-Upgrade) <a id="release"></a>
 
 ## Media <a id="media"></a>
 
