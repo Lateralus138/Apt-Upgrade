@@ -20,15 +20,15 @@
    3. [Error Handling](#errors)
 6. [License](#license)
 
-## Description <a name="description"></a>
+## Description <a id="description"></a>
 
 A nice little wrapper cli utility to help update and upgrade programs installed with the **APT** package manager with error handling and color output. Written in ***Fortran*** (yes).
 
-## Motivation <a name="motivation"></a>
+## Motivation <a id="motivation"></a>
 
 I like to write tools for things do often. And I just love to program for no reason at all...
 
-## Usage <a name="usage"></a>
+## Usage <a id="usage"></a>
 
 This is a compiled command line interface executable and can be executed in any normal manner as any other cli exectuable; Shells Bash, ZSH, SH, etc... It can, of course, be used in scripts or programs and since it has exit codes better control can be had over said scripts.
 
@@ -58,34 +58,34 @@ It can be used with "sudo" as I'd hope one might use and have set up properly.
  $
 ```
 
-## Files <a name="files"></a>
+## Files <a id="files"></a>
 
 Everything for this project can be found here from source files to compiled executables.
 
-- [Source Files](./source.7z) <a name="source"></a>
-- [Source With Compiled Module](./source_with_compiled_mod.7z) <a name="sourcem"></a>
-- [Archived Full Project Files](./project.7z) <a name="project"></a>
-- [Compiled Exectuable](./dist/apt-upgrade) <a name="compiled"></a>
+- [Source Files](./source.7z) <a id="source"></a>
+- [Source With Compiled Module](./source_with_compiled_mod.7z) <a id="sourcem"></a>
+- [Archived Full Project Files](./project.7z) <a id="project"></a>
+- [Compiled Exectuable](./dist/apt-upgrade) <a id="compiled"></a>
 - [This Repository](https://github.com/Lateralus138/Apt-Upgrade)
 - [Release Page](https://lateralus138.github.io/Apt-Upgrade)
 
-## Media <a name="media"></a>
+## Media <a id="media"></a>
 
 ### Help Screen
 
-![Help Screen](./media/help.png) <a name="help"></a>
+![Help Screen](./media/help.png) <a id="help"></a>
 
 ### Upgrade
 
-![Upgrade](./media/aptupgrade.png) <a name="upgrade"></a>
+![Upgrade](./media/aptupgrade.png) <a id="upgrade"></a>
 
 ### Errors
 
 Error here is thrown by not being sudo.
 
-![Errors](./media/errors.png) <a name="errors"></a>
+![Errors](./media/errors.png) <a id="errors"></a>
 
-## [License](./LICENSE) <a name="license"></a>
+## [License](./LICENSE) <a id="license"></a>
 
 >This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
