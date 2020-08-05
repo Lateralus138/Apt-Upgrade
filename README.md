@@ -2,6 +2,10 @@
 
 ![Linux Utility](https://img.shields.io/static/v1?label=Utility&message=Linux&color=green) ![Fortran Utility](https://img.shields.io/static/v1?label=Utility&message=Fortran&color=blue) ![Command Line Utility](https://img.shields.io/static/v1?label=Utility&message=Command%20Line&color=blueviolet) ![APT Utility](https://img.shields.io/static/v1?label=Utility&message=APT&color=important) ![Fortran Utility](https://img.shields.io/static/v1?label=Programming&message=Fortran&color=yellow)
 
+***&#42;&#42;&#42;Note:&#42;&#42;&#42;***
+
+***I will be giving credit to the author of the foul module which I will add on 4/7/20, but I do have plans to write a different module of the same thing very soon.***
+
 ## Index
 
 1. [Description](#description)
